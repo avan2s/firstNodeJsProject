@@ -1,0 +1,14 @@
+{
+  "name": "firstnodejsproject",
+  "version": "0.0.1",
+  "description": "a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jk"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
